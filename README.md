@@ -28,8 +28,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 #
 
 ### 📊 Stats 
-|  :---: |  :---: |
-| <a><img src="https://streak-stats.demolab.com user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak" width="55%">  </a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages" width="25%"> |
+| <a> <img src="https://streak-stats.demolab.com user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak" width="55%">  </a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages" width="25%"> |
 
   
 
