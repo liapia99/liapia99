@@ -29,7 +29,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 
 
 ### 📊 Stats
-![liapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liapia99&show_icons=true&bg_color=00000000)
+![liapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liapia99&hide=contribs,stars_icons=true&bg_color=00000000)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=liapia99&theme=gruvbox&border_radius=4.5) -->
 
