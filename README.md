@@ -1,6 +1,6 @@
 # 🍊 liapia99
 
-**'Undergraduate Junior @ Sacred Heart University'**
+**Undergraduate Junior @ Sacred Heart University**
 
 Hi there! Welcome to my github. I started with HTML and CSS during my senior year of high school in an after-school program, and I've been coding ever since. I was introduced to computer engineering later on in university. For the past couple of years, I've been exploring the tech world, including but not limited to drones, AI, prosthetics, etc. I love to see what others create and am constantly inspired to continue learning and exploring. I used to paint and draw a lot when I was younger, so I try to take a more creative and artistic approach to my coding and engineering projects. 
 
@@ -29,8 +29,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 
 
 ### 📊 Stats
-
-![liapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liapia99&show_icons=true&theme=tokyonight)
+![liapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liapia99&show_icons=true&bg_color=00000000)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=liapia99&theme=gruvbox&border_radius=4.5) -->
 
