@@ -27,17 +27,16 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 
 #
 
-   <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <div style="margin-right: 10px;">
+  
     <h3>📊 Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages"/>
-  </div>
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak"/>
-    </a>
-  </div>
-</div>
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak" width="45%">
+  </a>
+</p>
+
 
 
 
