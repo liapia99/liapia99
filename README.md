@@ -30,7 +30,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3>📊 Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=liapia99&hide=contribs,stars_icons=true&bg_color=00000000" alt="liapia's GitHub stats"/>
+   
   </div>
   <div>
     <a href="https://git.io/streak-stats">
