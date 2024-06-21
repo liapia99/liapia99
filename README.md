@@ -30,7 +30,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3>📊 Stats</h3>
-   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=compact)
   </div>
   <div>
     <a href="https://git.io/streak-stats">
