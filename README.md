@@ -27,8 +27,8 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 
 #
 
-   <div style="display: flex; justify-content: space-between;">
-  <div>
+   <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <div style="margin-right: 10px;">
     <h3>📊 Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages"/>
   </div>
