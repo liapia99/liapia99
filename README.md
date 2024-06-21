@@ -27,15 +27,12 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 
 #
 
-  
-    <h3>📊 Stats</h3>
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages" width="45%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
+### 📊 Stats ###
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak" width="45%">
+    <img src="https://streak-stats.demolab.com?user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak" width="35%">
+     &nbsp; &nbsp; &nbsp; &nbsp;
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical" alt="liapia's Top Languages" width="35%">
   </a>
-</p>
 
 
 
