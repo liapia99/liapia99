@@ -30,8 +30,7 @@ Currently, I'm working on a couple of projects, so I would love for you to follo
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3>📊 Stats</h3>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=compact)
-  </div>
+  [(https://github-readme-stats.vercel.app/api/top-langs/?username=liapia99&layout=donut-vertical)](https://github.com/liapia99/github-readme-stats)
   <div>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=liapia99&theme=transparent&hide_border=true&ring=FF7FFD7D&background=FFF0FF42&stroke=FF52EBD6&fire=FF772E&currStreakNum=CD8AFF&border=EBEBEB&currStreakLabel=FF45D9D1&sideNums=EDB0FF&dates=FF8AD7&sideLabels=FB63FFD6" alt="GitHub Streak"/>
